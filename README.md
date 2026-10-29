@@ -15,7 +15,7 @@ Tools and Services Used
 ## Table of Contents
 
 1. [Tenant Details](#tenant-details)
-2. [New User Onboarding in Microsoft 365](New-User-Onboarding-in-Microsoft-365) 
+2. [New User Onboarding in Microsoft 365](#New-User-Onboarding-in-Microsoft-365) 
 
 
 
