@@ -1,4 +1,11 @@
-# Microsoft 365 Administration Labs
+# Microsoft 365 Business Premium Homelab
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender](https://img.shields.io/badge/Microsoft%20Defender-00B294?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
 
 This repository documents my Microsoft 365 administration lab projects. The goal of this portfolio is to simulate real-world IT support and Microsoft 365 administrator tasks, including user onboarding, identity management, security, compliance, and access control.
 
